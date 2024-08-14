@@ -1,13 +1,13 @@
 
 //list of flute sound files mapped to keyboard keys
 const sounds = {
-    'a': 'sounds/sound1.wav',
-    's': 'sounds/sound2.wav',
-    'd': 'sounds/sound3.wav',
-    'f': 'sounds/sound4.wav',
-    'g': 'sounds/sound5.wav',
-    'h': 'sounds/sound6.wav',
-    'j': 'sounds/sound7.wav'
+    'a': 'sound1.wav',
+    'f': 'sound4.wav',
+    's': 'sound2.wav',
+    'g': 'sound5.wav',
+    'd': 'sound3.wav',
+    'h': 'sound6.wav',
+    'j': 'sound7.wav'
 };
 
 
