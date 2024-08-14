@@ -1,0 +1,26 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+}
+
+h1 {
+    display: block;
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 4rem;
+    color: #311c01;
+}
+
+img {
+    width: 50%;
+    margin-top: 50px;
+}
+
+p {
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2rem;
+    color: #844b01;
+}
